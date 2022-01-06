@@ -1,1 +1,1 @@
-# SmartCom.github.io
+# SmartCom
